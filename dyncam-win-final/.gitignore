@@ -1,0 +1,18 @@
+[Bb]uild*/
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+*.so
+*.a
+
+## Ignore clion file
+.idea/
+
+# Qt Creator CMake Settings
+CMakeLists.txt.user* 
+
+# git merge Files
+*.orig
+
+# build dirs by new clion
+cmake-build-*/
